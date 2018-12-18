@@ -1,0 +1,2 @@
+# GTS
+Generalized Thompson Sampling
